@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-15 00:33-0500\n"
+"PO-Revision-Date: 2012-03-15 03:29+0200\n"
+"Last-Translator: lite <litekok@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Reflection"
+msgstr "反射"
+
+#: ReflectionActivity.py:108
+msgid "Game"
+msgstr "游戏"
+
+#: ReflectionActivity.py:116
+msgid "Start a new horizontal-reflection game."
+msgstr "开始新的水平反射游戏。"
+
+#: ReflectionActivity.py:121
+msgid "Start a new vertical-reflection game."
+msgstr "开始新的垂直反射游戏。"
+
+#: ReflectionActivity.py:126
+msgid "Start a new bilateral-reflection game."
+msgstr "开始新的双向反射游戏。"
+
+#: ReflectionActivity.py:135
+msgid "Play with the robot."
+msgstr "对战机器人。"
+
+#: game.py:118
+msgid "Click on the dots to make a horizontal reflection."
+msgstr "水平反射请单击该点。"
+
+#: game.py:121
+msgid "Click on the dots to make a vertical reflection."
+msgstr "垂直反射请单击该点。"
+
+#: game.py:124
+msgid "Click on the dots to make a bilateral reflection."
+msgstr "双向反射请单击该点。"
+
+#: game.py:253 game.py:263 game.py:271 game.py:277
+msgid "keep trying"
+msgstr "继续试试"
+
+#: game.py:255 game.py:265 game.py:279
+msgid "good work"
+msgstr "做得好"
+
+#~ msgid "Game over"
+#~ msgstr "游戏结束"

@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-13 00:34-0500\n"
+"PO-Revision-Date: 2012-11-24 18:28+0200\n"
+"Last-Translator: samy boutayeb <s.boutayeb@free.fr>\n"
+"Language-Team: OLPC France <contact@olpc-france.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Reflection"
+msgstr "Réflexion"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid "draw patterns of reflective symmetry"
+msgstr "dessine des formes symétriques en miroir"
+
+#: ReflectionActivity.py:109
+msgid "Game"
+msgstr "Partie"
+
+#: ReflectionActivity.py:123
+msgid "Start a new horizontal-reflection game."
+msgstr "Démarrer une nouvelle partie réflexion-horizontale."
+
+#: ReflectionActivity.py:129
+msgid "Start a new vertical-reflection game."
+msgstr "Démarrer une nouvelle partie réflexion-verticale."
+
+#: ReflectionActivity.py:135
+msgid "Start a new bilateral-reflection game."
+msgstr "Démarrer une nouvelle partie réflexion-bilatérale."
+
+#: ReflectionActivity.py:145
+msgid "Play with the robot."
+msgstr "Jouer avec le robot."
+
+#: game.py:306 game.py:316 game.py:324 game.py:330
+msgid "keep trying"
+msgstr "essaie encore"
+
+#: game.py:308 game.py:318 game.py:332
+msgid "good work"
+msgstr "beau travail"
+
+#~ msgid "Click on the dots to make a horizontal reflection."
+#~ msgstr "Cliquez sur les points pour créer une réflexion horizontale."
+
+#~ msgid "Click on the dots to make a vertical reflection."
+#~ msgstr "Cliquez sur les points pour créer une réflexion verticale."
+
+#~ msgid "Click on the dots to make a bilateral reflection."
+#~ msgstr "Cliquez sur les points pour créer une réflexion bilatérale."

@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-15 00:33-0500\n"
+"PO-Revision-Date: 2012-02-01 15:09+0200\n"
+"Last-Translator: lkjlkj <agniechka@o2.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Reflection"
+msgstr "Odbicie"
+
+#: ReflectionActivity.py:108
+msgid "Game"
+msgstr "Gra"
+
+#: ReflectionActivity.py:116
+msgid "Start a new horizontal-reflection game."
+msgstr "Rozpocznij nową grę horyzontalnego odbicia."
+
+#: ReflectionActivity.py:121
+msgid "Start a new vertical-reflection game."
+msgstr "Rozpocznij nową grę wertykalnego odbicia."
+
+#: ReflectionActivity.py:126
+msgid "Start a new bilateral-reflection game."
+msgstr "Rozpocznij nową grę dwustronnego odbicia."
+
+#: ReflectionActivity.py:135
+msgid "Play with the robot."
+msgstr "Zagraj z robotem."
+
+#: game.py:118
+msgid "Click on the dots to make a horizontal reflection."
+msgstr "Kliknij na kropki, aby stworzyć poziome odbicie."
+
+#: game.py:121
+msgid "Click on the dots to make a vertical reflection."
+msgstr "Kliknij na kropki, aby stworzyć pionowe odbicie."
+
+#: game.py:124
+msgid "Click on the dots to make a bilateral reflection."
+msgstr "Kliknij na kropki, aby stworzyć dwustronne odbicie."
+
+#: game.py:253 game.py:263 game.py:271 game.py:277
+msgid "keep trying"
+msgstr "próbuj dalej"
+
+#: game.py:255 game.py:265 game.py:279
+msgid "good work"
+msgstr "dobra robota"
+
+#~ msgid "Game over"
+#~ msgstr "Koniec gry"

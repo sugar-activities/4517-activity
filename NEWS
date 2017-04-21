@@ -1,0 +1,53 @@
+NEWS
+
+9
+
+ENHANCEMENTS:
+* Gtk3 port by Ignacio Rodríguez
+
+8
+
+ENHANCEMENTS:
+* Paint by dragging across dots
+* Long press cycles through dots
+* New translations
+
+7
+
+ENHANCEMENTS:
+* New translations
+
+6
+
+ENHANCEMENTS:
+* New translations
+
+5
+
+ENHANCEMENTS:
+* New translations
+
+4
+
+ENHANCEMENTS:
+* New translations
+
+3
+
+ENHANCEMENTS:
+* better feedback when "game over"
+* robot partner
+
+2
+
+ENHANCEMENTS:
+* new bilateral symmetry game
+* save/restore game state to Journal
+* enable sharing
+
+BUG_FIX:
+* cache dot shapes/colors
+
+1
+
+* New project

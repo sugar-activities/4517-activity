@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-15 00:33-0500\n"
+"PO-Revision-Date: 2012-02-02 15:16+0200\n"
+"Last-Translator: anush.mkrtchyan <anush.mkrtchyan@ca1492.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Reflection"
+msgstr "Արտապատկեր"
+
+#: ReflectionActivity.py:108
+msgid "Game"
+msgstr "Խաղ"
+
+#: ReflectionActivity.py:116
+msgid "Start a new horizontal-reflection game."
+msgstr "Սկսել նոր հորիզոնական-արտապատկերով խաղ"
+
+#: ReflectionActivity.py:121
+msgid "Start a new vertical-reflection game."
+msgstr "Սկսել նոր ուղղահայաց-արտապատկերով խաղ"
+
+#: ReflectionActivity.py:126
+msgid "Start a new bilateral-reflection game."
+msgstr "Սկսել նոր երկկողմանի-արտապատկերով խաղ"
+
+#: ReflectionActivity.py:135
+msgid "Play with the robot."
+msgstr "Խաղալ ռոբոտի հետ:"
+
+#: game.py:118
+msgid "Click on the dots to make a horizontal reflection."
+msgstr "Սեղմել կետերի վրա` հորիզոնական արտապատկեր ստեղծելու համար:"
+
+#: game.py:121
+msgid "Click on the dots to make a vertical reflection."
+msgstr "Սեղմել կետերի վրա` ուղղահայաց արտապատկեր ստեղծելու համար:"
+
+#: game.py:124
+msgid "Click on the dots to make a bilateral reflection."
+msgstr "Սեղմել կետերի վրա` երկկողմանի արտապատկեր ստեղծելու համար:"
+
+#: game.py:253 game.py:263 game.py:271 game.py:277
+msgid "keep trying"
+msgstr "շարունակիր փորձել"
+
+#: game.py:255 game.py:265 game.py:279
+msgid "good work"
+msgstr "լավ աշխատանք է"
+
+#~ msgid "Game over"
+#~ msgstr "Խաղը ավարտվեց"
